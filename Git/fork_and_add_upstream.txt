@@ -1,0 +1,6 @@
+1. fork repo nya
+2. clone hasil fork nya
+3. hasil git clone di local dibuatkan branch baru
+4. tambahkan remote upstream dengan perintah git remote add upstream <repo eds>
+5. git push origin branch baru
+6. lalu di repo eds di merge hasil push nya ke salah satu branch misalnya ke branch dev
